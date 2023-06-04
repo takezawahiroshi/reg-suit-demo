@@ -9,11 +9,11 @@
 }
 .storybook-button--primary {
   color: white;
-  background-color: black;
+  background-color: #1ea7fd;
 }
 .storybook-button--secondary {
-  color: white;
-  background-color: purple;
+  color: #333;
+  background-color: transparent;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
 }
 .storybook-button--small {
@@ -22,9 +22,9 @@
 }
 .storybook-button--medium {
   font-size: 14px;
-  padding: 11px 140px;
+  padding: 11px 20px;
 }
 .storybook-button--large {
   font-size: 16px;
-  padding: 12px 60px;
+  padding: 12px 24px;
 }
