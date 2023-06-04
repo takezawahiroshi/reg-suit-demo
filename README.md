@@ -1,3 +1,1 @@
 # reg-suit-demo
-
-test
